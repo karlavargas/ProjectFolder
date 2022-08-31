@@ -19,3 +19,5 @@ a = KthLargest(3, [4, 5, 8, 2]);
 print(a.add(3))
 b = KthLargest(3, [4, 5, 8, 2]);
 print(b.add(3))
+print "End of the program"
+
